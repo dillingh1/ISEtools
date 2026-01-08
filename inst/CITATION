@@ -1,0 +1,36 @@
+citation(auto = meta)
+	
+bibentry(
+  bibtype     = "Article",
+  title       = "Bayesian methods for ion selective electrodes",
+  author      = c(
+    person(given = "Peter W", family = "Dillingham"),
+	person(given = "Tanja", family = "Radu"),
+	person(given = "Dermot", family = "Diamond"),
+    person(given = "Aleksandar", family = "Radu"),
+    person(given = "Christina M", family = "McGraw")
+  ),
+  journal     = "Electroanalysis",
+  year        = "2012",
+  volume      = "24",
+  number      = "2",
+  pages       = "316--324",
+  textVersion = "Dillingham et al. (2012). Bayesian methods for ion selective electrodes. Electroanalysis 24 (2):316-324."
+)
+	
+bibentry(
+  bibtype     = "Article",
+  title       = "Semi-automated data analysis for ion-selective electrodes and arrays using the R package ISEtools",
+  author      = c(
+    person(given = "Peter W", family = "Dillingham"),
+	person(given = "Basim S O", family = "Alsaedi"),
+    person(given = "Aleksandar", family = "Radu"),
+    person(given = "Christina M", family = "McGraw")
+  ),
+  journal     = "Sensors",
+  year        = "2012",
+  volume      = "19",
+  number      = "20",
+  pages       = "4544",
+  textVersion = "Dillingham et al. (2019). Semi-automated data analysis for ion-selective electrodes and arrays using the R package ISEtools. Sensors 19 (20):4544."
+)
